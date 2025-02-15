@@ -8,7 +8,8 @@ Desde pequeno, sempre fui apaixonado por tecnologia, explorando computadores, so
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/>
-</p>##
+</p>
+
 
 ## 📊 GitHub Stats  
 ![Kayky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=radical)  
