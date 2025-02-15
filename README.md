@@ -5,8 +5,24 @@ Meu nome é Kayky, tenho 17 anos e sou de Minas Gerais. Atualmente, estou cursan
 Desde pequeno, sempre fui apaixonado por tecnologia, explorando computadores, softwares e o mundo da programação. Com o tempo, desenvolvi um grande interesse pelo **desenvolvimento fullstack**, estudando tanto **front-end** quanto **back-end**. Meu objetivo é aprofundar meus conhecimentos na área e me tornar um desenvolvedor altamente qualificado.  
 
 ## 🚀 Tecnologias que conheço:  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg =30x30)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg =30x30)
+
+---
+
+## 📊 GitHub Stats  
+![Kayky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=radical)  
+
+---
+
+## 📞 Contato  
+Clique no link abaixo para visitar meu perfil no **LinkedIn**:  
+[**Meu LinkedIn**](https://www.linkedin.com/in/seulinkedin)
+
+---
+
+*"Aprender nunca é demais. O conhecimento é a chave para o futuro!"*
+
 
 ## 📊 GitHub Stats  
 ![Kayky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=radical)  
