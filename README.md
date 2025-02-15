@@ -18,5 +18,4 @@ Desde pequeno, sempre fui apaixonado por tecnologia, explorando computadores, so
 
 📫 **Contato:** [oslaw2029@gmail.com]  
 
----  
 *"Aprender nunca é demais. O conhecimento é a chave para o futuro!"*  
