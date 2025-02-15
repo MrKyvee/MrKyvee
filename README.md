@@ -21,15 +21,16 @@ Desde pequeno, sempre fui apaixonado por tecnologia, explorando computadores, so
 Clique nos ícones abaixo para entrar em contato comigo:
 
 <a href="https://www.linkedin.com/in/kayky-oliveira-silva-b7239934b/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/brands/linkedin.svg" alt="LinkedIn" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/brands/linkedin.svg" alt="LinkedIn" width="20" height="20"/>
 </a>
 
 <a href="https://wa.me/5531998287004" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/brands/whatsapp.svg" alt="WhatsApp" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/brands/whatsapp.svg" alt="WhatsApp" width="20" height="20"/>
 </a>
 
 <a href="mailto:oslaw2029@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/brands/google.svg" alt="Gmail" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.7.2/svgs/brands/google.svg" alt="Gmail" width="20" height="20"/>
 </a>
+
 
 *"Aprender nunca é demais. O conhecimento é a chave para o futuro!"*
