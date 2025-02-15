@@ -16,7 +16,7 @@ Desde pequeno, sempre fui apaixonado por tecnologia, explorando computadores, so
 ## 📈 Linguagens mais usadas  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&theme=radical)  
 
-📫 **Contato:** [oslaw2029@gmai.com]  
+📫 **Contato:** [oslaw2029@gmail.com]  
 
 ---  
 *"Aprender nunca é demais. O conhecimento é a chave para o futuro!"*  
