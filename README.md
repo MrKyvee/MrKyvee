@@ -5,11 +5,9 @@ Meu nome é Kayky, tenho 17 anos e sou de Minas Gerais. Atualmente, estou cursan
 Desde pequeno, sempre fui apaixonado por tecnologia, explorando computadores, softwares e o mundo da programação. Com o tempo, desenvolvi um grande interesse pelo **desenvolvimento fullstack**, estudando tanto **front-end** quanto **back-end**. Meu objetivo é aprofundar meus conhecimentos na área e me tornar um desenvolvedor altamente qualificado.  
 
 ## 🚀 Tecnologias que conheço:  
-<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="25" height="25"/>
-</p>
 
 ## 📊 Meu Status  
 ![Kayky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsername&show_icons=true&theme=radical)
@@ -30,6 +28,5 @@ Clique nos ícones abaixo para entrar em contato comigo:
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="25" height="25"/>
 </a>
 
----
 
 *"Aprender nunca é demais. O conhecimento é a chave para o futuro!"*
