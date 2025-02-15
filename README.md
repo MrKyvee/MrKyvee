@@ -11,7 +11,7 @@
 
 ## 📞 Contato  
 Clique no link abaixo para visitar meu perfil no **LinkedIn**:  
-[**Meu LinkedIn**](https://www.linkedin.com/in/kayky-oliveira-silva-b7239934b/)
+[**Meu LinkedIn**](https://www.linkedin.com/in/seulinkedin)
 
 ---
 
